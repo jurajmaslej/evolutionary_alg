@@ -1,0 +1,24 @@
+Model robots:40 generations:1400 mut prob:0.2run 0 best fitness: 369 treasures: 4
+run 1 best fitness: 281 treasures: 3
+run 2 best fitness: 285 treasures: 3
+run 3 best fitness: 281 treasures: 3
+run 4 best fitness: 295 treasures: 4
+run 5 best fitness: 281 treasures: 3
+run 6 best fitness: 282 treasures: 3
+run 7 best fitness: 352 treasures: 4
+run 8 best fitness: 361 treasures: 4
+run 9 best fitness: 372 treasures: 4
+run 10 best fitness: 331 treasures: 4
+run 11 best fitness: 369 treasures: 4
+run 12 best fitness: 370 treasures: 4
+run 13 best fitness: 284 treasures: 3
+run 14 best fitness: 284 treasures: 3
+run 15 best fitness: 281 treasures: 3
+run 16 best fitness: 282 treasures: 3
+run 17 best fitness: 282 treasures: 3
+run 18 best fitness: 366 treasures: 4
+run 19 best fitness: 285 treasures: 3
+median of treasures 3.0
+median of fitness 285.0
+mean of treasures 3.45
+mean of fitness 314.65

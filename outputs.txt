@@ -1,0 +1,54 @@
+Model robots:40 generations:1400 mut prob:0.2run 0 best fitness: 278 treasures: 3
+run 1 best fitness: 258 treasures: 3
+run 2 best fitness: 240 treasures: 3
+run 3 best fitness: 278 treasures: 3
+run 4 best fitness: 336 treasures: 4
+run 5 best fitness: 258 treasures: 3
+run 6 best fitness: 188 treasures: 2
+run 7 best fitness: 275 treasures: 3
+run 8 best fitness: 188 treasures: 2
+run 9 best fitness: 187 treasures: 2
+run 10 best fitness: 188 treasures: 2
+run 11 best fitness: 266 treasures: 3
+run 12 best fitness: 242 treasures: 3
+run 13 best fitness: 264 treasures: 3
+run 14 best fitness: 270 treasures: 3
+run 15 best fitness: 188 treasures: 2
+run 16 best fitness: 185 treasures: 2
+run 17 best fitness: 251 treasures: 3
+run 18 best fitness: 188 treasures: 2
+run 19 best fitness: 272 treasures: 3
+run 20 best fitness: 243 treasures: 3
+run 21 best fitness: 260 treasures: 3
+run 22 best fitness: 188 treasures: 2
+run 23 best fitness: 304 treasures: 4
+run 24 best fitness: 343 treasures: 4
+run 25 best fitness: 188 treasures: 2
+run 26 best fitness: 188 treasures: 2
+run 27 best fitness: 278 treasures: 3
+run 28 best fitness: 279 treasures: 3
+run 29 best fitness: 188 treasures: 2
+run 30 best fitness: 275 treasures: 3
+run 31 best fitness: 190 treasures: 2
+run 32 best fitness: 285 treasures: 3
+run 33 best fitness: 260 treasures: 3
+run 34 best fitness: 251 treasures: 3
+run 35 best fitness: 312 treasures: 4
+run 36 best fitness: 275 treasures: 3
+run 37 best fitness: 185 treasures: 2
+run 38 best fitness: 251 treasures: 3
+run 39 best fitness: 364 treasures: 4
+run 40 best fitness: 261 treasures: 3
+run 41 best fitness: 188 treasures: 2
+run 42 best fitness: 257 treasures: 3
+run 43 best fitness: 270 treasures: 3
+run 44 best fitness: 273 treasures: 3
+run 45 best fitness: 366 treasures: 4
+run 46 best fitness: 187 treasures: 2
+run 47 best fitness: 366 treasures: 4
+run 48 best fitness: 245 treasures: 3
+run 49 best fitness: 270 treasures: 3
+median of treasures 3.0
+median of fitness 259.0
+mean of treasures 2.84
+mean of fitness 251.8
